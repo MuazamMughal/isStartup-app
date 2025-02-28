@@ -158,7 +158,7 @@
 
   /* startupform */
   .startup-form {
-    @apply max-w-2xl mx-auto  my-10 space-y-8 px-6;
+    @apply max-w-2xl mx-auto   space-y-8 px-6;
   }
 
   .startup-form_label {
